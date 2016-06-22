@@ -33,3 +33,21 @@ logger.shouldPrintMessage(11,"foo"); returns true;
 
 **Credits:**  
 Special thanks to [@memoryless](https://discuss.leetcode.com/user/memoryless) for adding this problem and creating all test cases.
+
+<div>
+
+<div id="company_tags" class="btn btn-xs btn-warning">Show Company Tags</div>
+
+<span class="hidebutton">[Google](/company/google/)</span></div>
+
+<div>
+
+<div id="tags" class="btn btn-xs btn-warning">Show Tags</div>
+
+<span class="hidebutton">[Hash Table](/tag/hash-table/) [Design](/tag/design/)</span></div>
+
+<div>
+
+<div id="similar" class="btn btn-xs btn-warning">Show Similar Problems</div>
+
+<span class="hidebutton">[(M) Design Hit Counter](/problems/design-hit-counter/)</span></div>
